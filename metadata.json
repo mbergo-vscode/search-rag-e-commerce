@@ -1,0 +1,5 @@
+{
+  "name": "Elasticsearch-RAG-Ecommerce",
+  "description": "Interactive visualization of a modern E-commerce Search & RAG pipeline powered by Elasticsearch (Vector Search, ELSER, Hybrid Retrieval).",
+  "requestFramePermissions": []
+}
